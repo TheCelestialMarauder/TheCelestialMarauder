@@ -1,8 +1,12 @@
-# Hello! I'm Zawar 👋
+<div align="center">
+  <h1> Hello! I'm Zawar TheCelestialMarauder👋</h1>	
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username)](https://www.linkedin.com/in/your-username) -->
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/your-username)](https://github.com/your-username)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-username)](https://twitter.com/your-username) -->
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t33ciev2skizpso2pbrlbvxvhu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 ## About Me
 
