@@ -42,6 +42,7 @@ An early-stage video game development project. [Repository link](https://github.
 ## Contact Me
 
 - **Email:** [z.naeem.shahzadi@gmail.com](mailto:z.naeeem.shahzadi@gmail.com)
+- **Phone:** +34 634 19 98 43
 <!-- **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/your-username)
  **Twitter:** [twitter.com/your-username](https://twitter.com/your-username) -->
 
