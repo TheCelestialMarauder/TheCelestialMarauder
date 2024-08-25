@@ -2,6 +2,8 @@
   
   # Hello! I'm Zawar :wave:
 
+  <img src="img/TCM-logos/Banner-0001.png" width="100%"/>
+
 </div>
 
 ## About Me
