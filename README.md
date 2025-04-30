@@ -33,13 +33,9 @@
 
 ## 🚀 Featured Projects
 
-### [Event Horizon](https://github.com/TheCelestialMarauder/EventHorizon)
+### [Event Horizon](https://github.com/TheCelestialMarauder/EventHorizon)(Paused)
 
 🌌 An early-stage video game development project exploring deep space mechanics and storytelling. I'm using Unity and C# to bring this concept to life.
-
-### [How to C#](https://github.com/TheCelestialMarauder/HowToCsharp)
-
-📚 A beginner's guide to C# programming, covering fundamental concepts and practical examples to help new developers get started.
 
 ## 📬 Contact Me
 
